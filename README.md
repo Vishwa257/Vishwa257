@@ -3,11 +3,11 @@
 
 # Hi, I'm Vishwa Vardhan 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/bijjula-vishwa-49a552183)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]    (https://linkedin.com/in/www.linkedin.com/in/bijjula-vishwa-49a552183)                     [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Vishwa257)             [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:Bijjulavishwavardhan@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Vishwa257)
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:Bijjulavishwavardhan@gmail.com)
+
+
 
 ## Data Analyst | SQL | Python | Data Warehousing
 

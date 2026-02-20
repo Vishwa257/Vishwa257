@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Vishwa Vardhan
 
-<!--
-**Vishwa257/Vishwa257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | SQL | Python | Data Warehousing
 
-Here are some ideas to get you started:
+I am an aspiring Data Analyst with strong skills in SQL, Data Analysis, and Data Warehousing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- SQL
+- Python
+- Data Analysis
+- Data Cleaning
+- Data Warehousing
+- Power BI
+
+## Projects
+- Data Warehouse Project
+- SQL Layoffs Analysis
+- House Price Prediction
+
+## Contact
+- Location: Bangalore, India
+- Open to Data Analyst roles

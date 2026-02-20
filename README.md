@@ -69,8 +69,3 @@ Seeking entry-level Data Analyst or Data Engineer opportunities where I can appl
 
 ---
 
-## GitHub Statistics
-
-![Vishwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishwa257&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwa257&layout=compact&theme=default)

@@ -8,10 +8,9 @@
     <img src="https://img.shields.io/badge/GitHub-Vishwa257-black?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:bijjulavishwavardhan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-bijjulavishwavardhan@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
-
 ---
 
 ## Data Analyst | SQL Developer | Data Warehousing Enthusiast

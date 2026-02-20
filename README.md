@@ -11,61 +11,65 @@
     <img src="https://img.shields.io/badge/Gmail-bijjulavishwavardhan@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
+
 ---
 
-## Data Analyst | SQL Developer | Data Warehousing Enthusiast
+## Data Analyst | Cybersecurity Enthusiast | SQL Developer
 
-Aspiring Data Analyst with hands-on experience in SQL, Data Cleaning, Exploratory Data Analysis, and Data Warehouse design. Strong foundation in transforming raw data into structured, meaningful insights and building scalable data solutions using industry-standard practices.
+Aspiring Data Analyst and Cybersecurity professional with hands-on experience in SQL, Python, Data Analysis, and Security Tools development. Passionate about transforming data into actionable insights and building tools to identify vulnerabilities and improve system security.
+
+Strong foundation in data analysis, ETL pipelines, vulnerability scanning, and security monitoring with practical project experience in both Data Analytics and Cybersecurity domains.
 
 ---
 
 ## Core Skills
 
+**Data Analytics**
 - SQL (Advanced Queries, Joins, Aggregations, Window Functions)
-- Data Cleaning and Data Transformation
+- Data Cleaning and Transformation
 - Exploratory Data Analysis (EDA)
-- Data Warehouse Architecture (Bronze, Silver, Gold layers)
+- Data Warehouse Architecture
 - Python for Data Analysis
-- Database Design
 - ETL Pipeline Development
+
+**Cybersecurity**
+- Vulnerability Scanning Tool Development
+- API Security Testing
+- Security Monitoring Concepts
+- Threat Detection Fundamentals
+- Secure Coding Practices
+
+**Tools and Technologies**
+- SQL, Python
 - Git and GitHub
+- Database Systems
+- Linux Basics
+- Data Warehousing Concepts
 
 ---
 
 ## Featured Projects
 
+**Simple Vulnerability Scanner**
+- Developed security tool to detect vulnerable dependencies
+- Integrated vulnerability database scanning
+- Automated security checks using Go
+
+**API Security Scanner**
+- Built tool to detect common API vulnerabilities
+- Implemented automated security testing logic
+- Strengthened understanding of web security principles
+
 **Data Warehouse Project**
-- Designed and implemented multi-layer warehouse architecture
-- Built ETL pipelines using SQL
-- Structured raw data into analysis-ready formats
+- Designed multi-layer data warehouse architecture
+- Built ETL pipelines and structured datasets for analysis
 
-**SQL Layoffs Data Analysis**
-- Cleaned and transformed raw datasets
-- Performed business-focused exploratory analysis
-- Identified trends and patterns using SQL
-
-**House Price Prediction**
-- Performed data preprocessing and feature analysis
-- Built predictive model using Python
-- Applied statistical and analytical techniques
-
----
-
-## Tools and Technologies
-
-<p>
-<img src="https://img.shields.io/badge/SQL-Database-blue?style=flat-square&logo=postgresql" />
-<img src="https://img.shields.io/badge/Python-Data%20Analysis-yellow?style=flat-square&logo=python" />
-<img src="https://img.shields.io/badge/Git-Version%20Control-black?style=flat-square&logo=git" />
-<img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" />
-<img src="https://img.shields.io/badge/Data%20Warehouse-Engineering-orange?style=flat-square" />
-</p>
+**SQL Data Analysis Project**
+- Performed data cleaning, transformation, and analysis
+- Generated business insights using SQL queries
 
 ---
 
 ## Professional Objective
 
-Seeking entry-level Data Analyst or Data Engineer opportunities where I can apply my SQL, analytical thinking, and data engineering skills to solve real-world business problems and contribute to data-driven decision making.
-
----
-
+Seeking entry-level opportunities in Data Analytics or Cybersecurity where I can apply my analytical thinking, technical skills, and security knowledge to solve real-world problems and contribute to organizational growth.

@@ -1,6 +1,5 @@
 # Hi, I'm Vishwa Vardhan 👋
 
-
 <p align="left">
   <a href="https://linkedin.com/in/bijjula-vishwa-49a552183">
     <img src="https://img.shields.io/badge/LinkedIn-Vishwa%20Vardhan-blue?style=for-the-badge&logo=linkedin" />
@@ -15,90 +14,126 @@
 
 ---
 
-## Data Analyst | Cybersecurity Enthusiast
+## Data Analyst | SQL | Python | Power BI
 
-I am an aspiring Data Analyst and Cybersecurity professional with hands-on experience in SQL, Python, data analysis, and security tool development. My work focuses on extracting meaningful insights from data and building tools that help identify vulnerabilities and strengthen system security.
+I am a Data Analyst with hands-on experience in SQL, Excel, Python, data analysis, and data visualization. I enjoy working with structured data, transforming raw datasets into meaningful insights, and using data to support better business decisions.
 
-I have practical experience developing vulnerability scanners, analyzing structured datasets, building ETL pipelines, and performing exploratory data analysis. I am actively seeking entry-level opportunities in Data Analytics or Cybersecurity where I can contribute technical skills and continue growing professionally.
+My experience includes data cleaning, exploratory data analysis, SQL-based analysis, ETL processes, data warehouse concepts, dashboard development, and working with large datasets.
+
+I currently work as a Data Analyst at Flipkart, where I work with data and analytical processes to support business requirements and identify meaningful insights.
+
+I am continuously strengthening my skills in data analytics, business intelligence, data engineering, and machine learning.
 
 ---
 
 ## Core Competencies
 
 ### Data Analytics
-- SQL (Advanced Queries, Joins, Aggregations, Window Functions)
-- Data Cleaning and Transformation
+- SQL
+- Advanced SQL Queries
+- Joins and Aggregations
+- Window Functions
+- Data Cleaning
+- Data Transformation
 - Exploratory Data Analysis (EDA)
-- Data Warehouse Architecture
+- Data Visualization
+- Business Intelligence
+- Dashboard Development
+- Statistical Analysis
+
+### Programming & Data
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- SQL
+- Excel
+- Google Sheets
+
+### Data Engineering
 - ETL Pipeline Development
-- Python for Data Analysis
-- Database Design and Management
+- Data Warehouse Concepts
+- Data Modeling
+- Database Design
+- Data Transformation
+- SQL Data Pipelines
 
-### Cybersecurity
-- Vulnerability Assessment Tool Development
-- API Security Testing
-- Security Monitoring and Threat Detection Concepts
-- Secure Coding Practices
-- Basic Network Security Concepts
-- Dependency and Vulnerability Analysis
-
-### Tools and Technologies
-<p>
-<img src="https://img.shields.io/badge/SQL-Database-blue?style=flat-square&logo=postgresql" />
-<img src="https://img.shields.io/badge/Python-Data%20Analysis-yellow?style=flat-square&logo=python" />
-<img src="https://img.shields.io/badge/Go-Security%20Tools-blue?style=flat-square&logo=go" />
-<img src="https://img.shields.io/badge/Git-Version%20Control-black?style=flat-square&logo=git" />
-<img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" />
-<img src="https://img.shields.io/badge/Linux-Environment-orange?style=flat-square&logo=linux" />
-<img src="https://img.shields.io/badge/Data%20Warehouse-Engineering-orange?style=flat-square" />
-</p>
+### Business Intelligence
+- Power BI
+- Data Visualization
+- KPI Analysis
+- Reporting
+- Dashboard Development
 
 ---
 
-## Featured Cybersecurity Projects
+## Tools and Technologies
 
-### Simple Vulnerability Scanner
-Developed a command-line security tool to detect vulnerable dependencies by integrating vulnerability database scanning. Implemented automated checks and built the tool using Go, demonstrating practical vulnerability assessment skills.
-
-### API Security Scanner
-Built a security tool to identify common API vulnerabilities by performing automated analysis of endpoints. Strengthened understanding of web security concepts and vulnerability detection techniques.
-
-### Password Strength Checker
-Created a security utility to evaluate password strength based on multiple security criteria. Implemented logic to detect weak passwords and improve authentication security practices.
+<p>
+<img src="https://img.shields.io/badge/SQL-Database-blue?style=flat-square&logo=postgresql" />
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-yellow?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=flat-square&logo=pandas" />
+<img src="https://img.shields.io/badge/NumPy-Data%20Analysis-blue?style=flat-square&logo=numpy" />
+<img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?style=flat-square&logo=powerbi" />
+<img src="https://img.shields.io/badge/Excel-Data%20Analysis-green?style=flat-square&logo=microsoftexcel" />
+<img src="https://img.shields.io/badge/Git-Version%20Control-black?style=flat-square&logo=git" />
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" />
+</p>
 
 ---
 
 ## Featured Data Analytics Projects
 
 ### Data Warehouse Project
-Designed and implemented a structured data warehouse architecture using layered design principles. Built ETL pipelines and transformed raw data into analysis-ready datasets.
+
+Designed and implemented a structured data warehouse using a layered architecture. Built ETL processes to transform raw data into analysis-ready datasets and applied data modeling and SQL techniques for analytical reporting.
 
 ### SQL Data Analysis Project
-Performed comprehensive data cleaning and exploratory analysis using SQL. Identified trends, patterns, and insights from raw datasets.
+
+Performed data cleaning, transformation, and exploratory analysis using SQL. Used joins, aggregations, subqueries, and window functions to identify trends, patterns, and business insights.
 
 ### House Price Data Analysis
-Performed data preprocessing, feature analysis, and statistical evaluation using Python. Applied analytical techniques to understand relationships within structured datasets.
+
+Performed data preprocessing and exploratory data analysis using Python. Used Pandas, NumPy, and Matplotlib to analyze relationships between features and understand factors affecting house prices.
+
+### Business Intelligence Dashboard
+
+Created an interactive Power BI dashboard to analyze key business metrics, identify trends, and present actionable insights through data visualization.
+
+---
+
+## Other Projects
+
+### Cybersecurity Projects
+
+I have also worked on cybersecurity projects involving vulnerability assessment, API security testing, and security tooling. These projects helped develop my understanding of Linux, networking, security concepts, and technical problem-solving.
 
 ---
 
 ## Professional Objective
 
-I am seeking entry-level opportunities in Data Analytics or Cybersecurity where I can apply my technical skills, analytical thinking, and security knowledge to solve real-world problems and contribute to organizational success.
+I am focused on building a career in Data Analytics while expanding my expertise in data engineering, business intelligence, and machine learning.
+
+My goal is to work on real-world data problems, build scalable data solutions, and continuously develop my technical and analytical skills.
 
 ---
 
 ## Areas of Interest
 
-- Data Analysis and Business Intelligence
-- Cybersecurity and Vulnerability Assessment
-- Security Tool Development
-- Data Engineering and ETL Pipelines
-- Security Monitoring and Threat Detection
+- Data Analytics
+- Business Intelligence
+- Data Engineering
+- Data Warehousing
+- ETL & Data Pipelines
+- Machine Learning
+- Artificial Intelligence
+- SQL & Database Systems
+- Data Visualization
 
 ---
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/bijjula-vishwa-49a552183  
-- GitHub: https://github.com/Vishwa257  
-- Email: bijjulavishwavardhan@gmail.com  
+- LinkedIn: https://linkedin.com/in/bijjula-vishwa-49a552183
+- GitHub: https://github.com/Vishwa257
+- Email: bijjulavishwavardhan@gmail.com

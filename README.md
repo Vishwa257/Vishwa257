@@ -14,13 +14,13 @@
 
 ---
 
-## Data Analyst | SQL | Python | Power BI
+## Data Analyst | SQL | Python | Excel | Power BI
 
 I am a **Data Analyst currently working at Flipkart**, with hands-on experience in SQL, Excel, Python, data analysis, and data visualization.
 
-I work with structured data to analyze performance, identify trends, support business requirements, and generate meaningful insights for data-driven decision-making.
+I work with structured datasets to analyze performance, identify trends, support business requirements, and generate meaningful insights for data-driven decision-making.
 
-I have experience with **SQL analysis, data cleaning, exploratory data analysis, ETL processes, data warehousing concepts, reporting, and dashboard development**. I enjoy turning raw data into clear insights and building solutions that help solve real-world business problems.
+I have experience in SQL analysis, data cleaning, exploratory data analysis, ETL processes, data warehousing concepts, reporting, and dashboard development. I enjoy turning raw data into clear insights and building solutions that help solve real-world business problems.
 
 I am continuously expanding my skills in **Data Analytics, Business Intelligence, Data Engineering, and Machine Learning**.
 
@@ -29,18 +29,19 @@ I am continuously expanding my skills in **Data Analytics, Business Intelligence
 ## Core Competencies
 
 ### 📊 Data Analytics
+
 - SQL
 - Advanced SQL Queries
 - Joins & Aggregations
 - Window Functions
 - Data Cleaning & Transformation
-- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis
 - Data Visualization
-- Statistical Analysis
 - KPI Analysis
 - Business Reporting
 
 ### 🐍 Programming & Data
+
 - Python
 - Pandas
 - NumPy
@@ -50,14 +51,15 @@ I am continuously expanding my skills in **Data Analytics, Business Intelligence
 - Google Sheets
 
 ### ⚙️ Data Engineering
+
 - ETL Pipeline Development
 - Data Warehousing
 - Data Modeling
-- Database Design
 - Data Transformation
 - SQL Data Pipelines
 
 ### 📈 Business Intelligence
+
 - Power BI
 - Dashboard Development
 - Data Visualization
@@ -86,9 +88,9 @@ I am continuously expanding my skills in **Data Analytics, Business Intelligence
 
 ### Data Analyst — Flipkart
 
-Currently working as a Data Analyst at Flipkart, working with structured data and analytical processes to support business requirements.
+Currently working as a Data Analyst at Flipkart, working with structured data and analytical processes to support business requirements and reporting.
 
-Key areas of work include:
+**Key areas of work include:**
 
 - Data analysis and reporting
 - SQL-based data extraction and analysis
@@ -113,7 +115,7 @@ Designed and implemented a structured data warehouse using a layered architectur
 
 ---
 
-### 🔍 SQL Data Analysis Project
+### 🔎 SQL Data Analysis Project
 
 Performed data cleaning, transformation, and exploratory analysis using SQL.
 
@@ -137,56 +139,29 @@ Performed data preprocessing and exploratory data analysis using Python.
 
 ---
 
-### 📈 Business Intelligence Dashboard
+## ⚙️ Data Engineering
 
-Built an interactive Power BI dashboard to analyze business performance.
+Currently developing my skills in data engineering, with a focus on:
 
-- Created KPIs and calculated metrics
-- Built interactive visualizations
-- Analyzed trends and performance
-- Designed dashboards for easier decision-making
-- Presented insights through data visualization
-
----
-
-## ⚙️ Data Engineering Projects
-
-I am also building projects focused on data engineering concepts, including:
-
-- ETL pipelines
-- Data warehousing
-- Data modeling
-- SQL optimization
-- Data transformation
-- Automated data workflows
+- ETL Pipelines
+- Data Warehousing
+- Data Modeling
+- Data Transformation
+- SQL Optimization
+- Automated Data Workflows
 
 ---
 
 ## 🤖 Machine Learning & AI
 
-I am currently expanding my knowledge in:
+Currently expanding my knowledge in:
 
-- Statistics for Data Science
+- Statistics
 - Machine Learning
 - Feature Engineering
 - Predictive Analytics
-- Model Development
 - Artificial Intelligence
 - Generative AI
-
----
-
-## 🔐 Additional Technical Experience
-
-I also have a background in cybersecurity and have worked on projects involving:
-
-- Vulnerability assessment
-- API security testing
-- Security tool development
-- Linux environments
-- Network security concepts
-
-This experience has strengthened my technical problem-solving skills and understanding of systems and security.
 
 ---
 
@@ -209,20 +184,6 @@ I am interested in solving real-world problems using data, building reliable dat
 - Data Warehousing
 - ETL & Data Pipelines
 - AI & Generative AI
-
----
-
-## 📌 Areas of Interest
-
-- Data Analytics
-- Business Intelligence
-- Data Engineering
-- Data Warehousing
-- ETL & Data Pipelines
-- Machine Learning
-- Artificial Intelligence
-- SQL & Database Systems
-- Data Visualization
 
 ---
 
